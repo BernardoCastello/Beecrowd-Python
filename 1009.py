@@ -1,0 +1,5 @@
+n = input()
+a = float(input())
+b = float(input())
+r = a+(b*0.15)
+print(f'TOTAL = R$ {r:.2f}')
